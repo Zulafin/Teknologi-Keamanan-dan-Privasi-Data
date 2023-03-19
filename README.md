@@ -1,9 +1,9 @@
 # Teknologi-Keamanan-dan-Privasi-Data
 
-# Tugas 1
+## Tugas 1
 Membuat suatu aplikasi untuk implementasi simetrik kriptogtafi, yaitu Shift Chiper, Vigenere Chiper, Substitution Chiper, dan Transposition Chiper. Untuk aplikasi Shift Chiper menggunakan 2 digit terakhir NIM dan untuk Vigenere Chiper menggunakan 3 digit terakhir NIM.
 
-# Penjelasan
+## Penjelasan
 # Shift Chiper
 Kode program akan menampilkan sebuah GUI dengan tiga buah text entry box, dua buah label, dan dua buah button. User dapat memasukkan plaintext/ciphertext dan kunci (dalam bentuk integer) pada text entry box. Jika user memilih tombol "Encrypt", maka plaintext yang dimasukkan akan dienkripsi menggunakan shift cipher dengan kunci yang diberikan. Hasil enkripsi akan ditampilkan pada text entry box "Result". Jika user memilih tombol "Decrypt", maka ciphertext yang dimasukkan akan didekripsi menggunakan shift cipher dengan kunci yang diberikan. Hasil dekripsi akan ditampilkan pada text entry box "Result".
 # Vigenere Chiper
